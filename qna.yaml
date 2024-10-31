@@ -1,6 +1,6 @@
 version: 3
-domain: time_travel
-created_by: Grant Shipley
+domain: garifuna
+created_by: Nyan Avila
 seed_examples:
   - context: |
       The DeLorean DMC-12 is a sports car manufactured by John DeLorean's DeLorean Motor Company
